@@ -1,0 +1,12 @@
+form{
+ background-color: brown;
+ display: flex;
+ flex-direction: column;
+
+}
+.container {
+    width:  250px;
+    height: 200px;
+    margin: 100px auto;
+    background-color: cadetblue;
+}
